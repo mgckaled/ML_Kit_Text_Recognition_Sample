@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ML_Kit_Text_Recognition_Sample"
